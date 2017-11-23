@@ -1,0 +1,12 @@
+{
+  "apiKey": "2342aser234qefw4rt",
+  "apiSecret": "asdfwer2983r298u",
+  "trade": "BTC",
+  "currency": "XRP",
+  "sellValuePercent": 4,
+  "buyValuePercent": 7,
+  "sellVolumePercent": 3,
+  "buyVolumePercent": 3,
+  "extCoinBalance": 0,
+  "checkInterval": 30
+}
