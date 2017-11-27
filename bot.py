@@ -9,7 +9,7 @@ from modules import orderUtil
 from modules import buyUtil
 from modules import sellUtil
 
-with open("config/botConfig.json", "r") as fin:
+with open("botConfig.json", "r") as fin:
     config = json.load(fin)
 
 apiKey = str(config['apiKey'])
